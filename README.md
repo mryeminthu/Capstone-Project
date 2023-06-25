@@ -1,4 +1,4 @@
-# Portfolio<a name="readme-top"></a>
+# Capstone Project<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -22,22 +22,34 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [Myanmar Fight Team] <a name="about-project"></a>
 
-This is my Microverse Project of creating portfolio. It is essential for future web developers to have a portfolio website.
+Our website is designed for individuals like you who are keen to take their Martial Arts expertise to new heights. So, whether you are a beginner or an experienced fighter, we have programs that cater to all levels of experience. Explore our website and see what we have to offer.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- HTML
-- CSS
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#>HTML</a></li>
+  </ul>
+   <ul>
+    <li><a href="#>CSS</a></li>
+  </ul>
+   <ul>
+    <li><a href="#>Javascript</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Create portfolio with HTML and CSS**
-- **Set up linters**
-- **Use gitHub**
+- **Myanmar Fight Team Website**
+- **RWD for any devices**
+- **Use Flexbox to place elements in the page**
+- **Use GitHub Pages to deploy web pages**
+- **Use JavaScript to manipulate DOM elements**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,7 +63,7 @@ This is my Microverse Project of creating portfolio. It is essential for future 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- Here is my project as a Micronaut to understand how to build Mobile first website.
+- To install a duplicate of this project on your computer, kindly abide by the guidelines provided below.
 
 ### Prerequisites
 
@@ -102,7 +114,7 @@ To trace linter errors in VS code, please use the following commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **More beautiful responsive portfolio website**
+- [ ] **Add more webpages such as Program, Join, etc.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,6 +123,7 @@ To trace linter errors in VS code, please use the following commands:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/mryeminthu/Capstone-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,21 +139,8 @@ If you like this project, follow my Facebook Page and subscribe my You Tube Chan
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and my coding partners.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **Can I use Sublime Text for this project?**
-
-  - [Any code editor can be used.]
-
-- **Is Node.js needed?**
-
-  - [Yes.]
+- I would like to thank Microverse and my coding partners.
+- Cindy Shin is credited with the original concept and idea for the design showcased on Behance.(https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
