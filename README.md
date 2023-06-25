@@ -41,6 +41,8 @@ Our website is designed for individuals like you who are keen to take their Mart
     <li><a href="#>Javascript</a></li>
   </ul>
 </details>
+          
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
