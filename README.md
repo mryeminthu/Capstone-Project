@@ -29,7 +29,6 @@ Our website is designed for individuals like you who are keen to take their Mart
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 <details>
   <summary>Client</summary>
   <ul>
