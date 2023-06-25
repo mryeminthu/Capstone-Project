@@ -32,13 +32,13 @@ Our website is designed for individuals like you who are keen to take their Mart
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#>HTML</a></li>
+    <li><a href="#">HTML</a></li>
   </ul>
    <ul>
-    <li><a href="#>CSS</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
    <ul>
-    <li><a href="#>Javascript</a></li>
+    <li><a href="#">Javascript</a></li>
   </ul>
 </details>
           
