@@ -80,7 +80,7 @@ Our website is designed for individuals like you who are keen to take their Mart
  Clone this repository to your desired folder:
   - Click Code button (shown in green color)
   - Copy URL.
-  - Please clone it with the following command: git clone <url>
+  - Please clone it with the following command: git clone (your copied URL)
 
 ### Install
 
