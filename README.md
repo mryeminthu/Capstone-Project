@@ -1,4 +1,7 @@
-# Capstone Project<a name="readme-top"></a>
+<a name="readme-top"></a>
+<div align="center">
+  <h3><b>Capstone Project</b></h3>
+</div>
 
 # 📗 Table of Contents
 
@@ -22,6 +25,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 # 📖 [Myanmar Fight Team] <a name="about-project"></a>
 
 Our website is designed for individuals like you who are keen to take their Martial Arts expertise to new heights. So, whether you are a beginner or an experienced fighter, we have programs that cater to all levels of experience. Explore our website and see what we have to offer.
@@ -54,6 +58,7 @@ Our website is designed for individuals like you who are keen to take their Mart
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://mryeminthu.github.io/Portfolio/)
@@ -72,10 +77,10 @@ Our website is designed for individuals like you who are keen to take their Mart
 
 ### Setup
 
-- Clone this repository to your desired folder:
-  a. Click Code button (shown in green color)
-  b. Copy URL.
-  c. Please clone it with the following command: git clone <url>
+ Clone this repository to your desired folder:
+  - Click Code button (shown in green color)
+  - Copy URL.
+  - Please clone it with the following command: git clone <url>
 
 ### Install
 
@@ -89,9 +94,20 @@ Our website is designed for individuals like you who are keen to take their Mart
 
 To trace linter errors in VS code, please use the following commands:
 
-- For HTML: npx hint .
-- For CSS: npx stylelint "\*_/_.{css,scss}"
-- For Javascript: npx eslint .
+- For HTML:
+  ```
+npx hint .
+```
+
+- For CSS:
+```
+npx stylelint "**/*.{css,scss}"
+```
+
+- For Javascript:
+```
+npx eslint .
+```
 
 ### Deployment
 
@@ -141,7 +157,7 @@ If you like this project, follow my Facebook Page and subscribe my You Tube Chan
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank Microverse and my coding partners.
-- Cindy Shin is credited with the original concept and idea for the design showcased on Behance.(https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+- [Cindy Shin in Behance](https://www.behance.net/adagio07) is credited with the original concept and idea for the design showcased.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
