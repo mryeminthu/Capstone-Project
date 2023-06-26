@@ -95,16 +95,19 @@ Our website is designed for individuals like you who are keen to take their Mart
 To trace linter errors in VS code, please use the following commands:
 
 - For HTML:
-  ```
+  
+```
 npx hint .
 ```
 
 - For CSS:
+  
 ```
 npx stylelint "**/*.{css,scss}"
 ```
 
 - For Javascript:
+  
 ```
 npx eslint .
 ```
