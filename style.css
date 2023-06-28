@@ -620,6 +620,7 @@ footer {
     text-align: center;
     display: inline-block;
   }
+
   .join_btn {
     display: none;
   }
@@ -673,6 +674,7 @@ footer {
   .section4 h1 {
     font-size: 35px;
   }
+
   .section4 ul {
     width: 60%;
     margin: auto;
