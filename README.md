@@ -61,7 +61,7 @@ Our website is designed for individuals like you who are keen to take their Mart
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mryeminthu.github.io/Portfolio/)
+- [Live Demo Link](https://mryeminthu.github.io/Capstone-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
