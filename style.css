@@ -26,7 +26,7 @@
   padding: 0 5%;
   background-color: #272a31;
   opacity: 0.9;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
 }
