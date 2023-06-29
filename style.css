@@ -802,7 +802,7 @@ img {
   .about-footer {
     display: flex;
     align-items: center;
-    background-color: #000;
+    background-color: rgb(71 70 70);
   }
 
   .about-footer .footer_para1 {
