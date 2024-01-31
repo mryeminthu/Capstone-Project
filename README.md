@@ -28,7 +28,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖 [Myanmar Fight Team] <a name="about-project"></a>
 
-Our website is designed for individuals like you who are keen to take their Martial Arts expertise to new heights. So, whether you are a beginner or an experienced fighter, we have programs that cater to all levels of experience. Explore our website and see what we have to offer.
+This website is designed for individuals like you who are keen to take their Martial Arts expertise to new heights. So, whether you are a beginner or an experienced fighter, we have programs that cater to all levels of experience. Explore our website and see what we have to offer.
 
 ## 🛠 Built With <a name="built-with"></a>
 
